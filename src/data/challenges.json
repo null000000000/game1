@@ -1,0 +1,1047 @@
+{
+  "schema_version": "1.0.0",
+  "language": "ar-EG",
+  "total_challenges": 100,
+  "category_counts": {
+    "SOCIAL": 20,
+    "CREATIVE": 20,
+    "EXPLORE": 20,
+    "FUN": 20,
+    "BRAIN": 20
+  },
+  "categories": [
+    {
+      "id": "SOCIAL",
+      "name_ar": "اجتماعي",
+      "color_token": "coral"
+    },
+    {
+      "id": "CREATIVE",
+      "name_ar": "إبداعي",
+      "color_token": "primary"
+    },
+    {
+      "id": "EXPLORE",
+      "name_ar": "استكشاف",
+      "color_token": "mint"
+    },
+    {
+      "id": "FUN",
+      "name_ar": "مرح وهزار",
+      "color_token": "yellow"
+    },
+    {
+      "id": "BRAIN",
+      "name_ar": "ذكاء وملاحظة",
+      "color_token": "sky"
+    }
+  ],
+  "global_safety_rules_ar": [
+    "كل التحديات اختيارية، ومن حق المستخدم يعمل Skip في أي وقت ومن غير عقوبة.",
+    "ممنوع تعريض النفس أو الآخرين للخطر، أو دخول أماكن خاصة، أو تعطيل المرور أو العمل.",
+    "لا تصوّر أو تنشر أشخاصًا أو معلومات أو ممتلكات خاصة من غير إذن واضح.",
+    "لا يوجد تحدٍ يتطلب شراء شيء أو كشف معلومات شخصية أو إحراج شخص آخر."
+  ],
+  "challenges": [
+    {
+      "id": "CH001",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "ابعت رسالة شكر",
+      "description_ar": "ابعت لشخص تعرفه رسالة قصيرة تشكره فيها على حاجة عملها معاك، حتى لو كانت بسيطة.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH002",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "اسأل عن ذكرى حلوة",
+      "description_ar": "اسأل صديقًا عن ذكرى لطيفة بينكم، واسمع حكايته من غير ما تستعجله.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH003",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "شارك أغنية",
+      "description_ar": "ابعت لشخص قريب منك أغنية بتحبها، واكتب في سطر واحد إيه اللي بيعجبك فيها.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH004",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "مجاملة صادقة",
+      "description_ar": "قول لشخص تعرفه مجاملة صادقة ومحددة عن حاجة بتقدّرها فيه، من غير مبالغة.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH005",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "مكالمة عشر دقايق",
+      "description_ar": "اتصل بشخص قريب منك واسأله عن يومه. خلي المكالمة خفيفة ومن غير ضغط.",
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH006",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "اسأل عن ترشيح",
+      "description_ar": "اطلب من صديق ترشيح فيلم أو كتاب أو لعبة مجانية، واسأله ليه اختارها.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH007",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "لعبة حجر ورقة مقص",
+      "description_ar": "العب حجر ورقة مقص مع شخص موجود معاك، best of 3.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH008",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "علّم واتعلّم",
+      "description_ar": "علّم شخصًا تعرفه معلومة صغيرة في دقيقتين، وخليه يعلّمك حاجة هو كمان.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH009",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "اختبار من 3 أسئلة",
+      "description_ar": "اعمل لصديق اختبارًا خفيفًا من 3 أسئلة عن موضوع بتحبوه، من غير أسئلة شخصية محرجة.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH010",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "رسالة تشجيع",
+      "description_ar": "ابعت رسالة تشجيع بسيطة لشخص عنده حاجة مهمة بيعملها أو مستني نتيجتها.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH011",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "اسأل عن هواية",
+      "description_ar": "اسأل شخصًا تعرفه عن هواية نفسه يجربها، وشاركه أنت كمان هواية نفسك تجربها.",
+      "duration_minutes": 4,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH012",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "اختاروا أغنية",
+      "description_ar": "خلي شخصًا قريبًا منك يختار أغنية تسمعوها، وبعدها كل واحد يقول رأيه في جملة.",
+      "duration_minutes": 4,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH013",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "حكاية في صورة",
+      "description_ar": "شارك مع صديق صورة لشيء عادي حواليك بيفكرك بموقف لطيف، واحكيله السبب.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": "ما تشاركش صورة فيها بيانات شخصية أو أشخاص من غير إذنهم."
+    },
+    {
+      "id": "CH014",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "استراحة من غير موبايل",
+      "description_ar": "اقعد مع شخص قريب منك 10 دقايق من غير ما تمسكوا الموبايلات، واتكلموا في أي موضوع خفيف.",
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH015",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "اكتشف حاجة مشتركة",
+      "description_ar": "اكتشف أنت وصديقك 3 حاجات بتحبوها أنتم الاتنين، حتى لو كانت حاجات غير متوقعة.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH016",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "احكي موقف مضحك",
+      "description_ar": "احكي لشخص تعرفه موقفًا مضحكًا حصل لك، من غير ما تحرج أو تكشف خصوصية حد تاني.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH017",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "اسأل سؤالًا لطيفًا",
+      "description_ar": "اسأل شخصًا قريبًا منك: إيه أحسن حاجة حصلت لك الأسبوع ده؟ واسمع الإجابة باهتمام.",
+      "duration_minutes": 4,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH018",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "اعملوا قائمة أغاني",
+      "description_ar": "كوّن مع صديق قائمة من 5 أغاني: كل واحد يضيف أغنيتين، واختاروا الخامسة سوا.",
+      "duration_minutes": 7,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH019",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "اتعرف على رأي مختلف",
+      "description_ar": "اتكلم مع شخص تعرفه عن تفضيل بسيط مختلف بينكم، زي أكلة أو فيلم، بهدف الفهم مش الإقناع.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH020",
+      "category": "SOCIAL",
+      "category_ar": "اجتماعي",
+      "title_ar": "قول حاجة بتقدّرها",
+      "description_ar": "قول لشخص قريب منك صفة واحدة بتقدّرها فيه، ومعاها مثال حقيقي صغير.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH021",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "ارسم في دقيقة",
+      "description_ar": "اختار أي شيء قدامك وارسمه في 60 ثانية. المطلوب المتعة مش الدقة.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH022",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "قصة من 6 كلمات",
+      "description_ar": "اكتب قصة كاملة من 6 كلمات بالضبط.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH023",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "صورة بلون واحد",
+      "description_ar": "التقط صورة لشيء واحد بلون تختاره، من غير ما تظهر أشخاص أو معلومات خاصة.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": "صوّر ممتلكاتك أو أشياء عامة فقط، واحترم خصوصية الآخرين."
+    },
+    {
+      "id": "CH024",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "صمّم إيموجي",
+      "description_ar": "ارسم إيموجي جديد يعبر عن مزاجك الحالي، واديله اسمًا.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH025",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "اسم جديد لشيء عادي",
+      "description_ar": "اختار غرضًا عاديًا حواليك واخترع له اسمًا جديدًا كأنه منتج عالمي.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH026",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "اعمل طيارة ورق",
+      "description_ar": "اصنع طيارة ورق من ورقة متاحة، وجرب تطيرها في مساحة آمنة وفاضية.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": "ابعد عن المراوح والأماكن المرتفعة والأشخاص."
+    },
+    {
+      "id": "CH027",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "قصيدة من 4 سطور",
+      "description_ar": "اكتب قصيدة قصيرة من 4 سطور عن شيء عادي، زي كوب أو شباك.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH028",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "إعلان لمنتج عادي",
+      "description_ar": "اعمل إعلانًا مدته 30 ثانية لمنتج عادي جنبك، كأنه أعظم اختراع في العالم.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH029",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "ارسم بإيدك التانية",
+      "description_ar": "ارسم نجمة أو بيتًا باستخدام إيدك غير المسيطرة.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH030",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "شخصية من 3 أشياء",
+      "description_ar": "اختار 3 أشياء حواليك واخترع شخصية خيالية تجمع صفاتهم.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH031",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "لوجو لمقهى خيالي",
+      "description_ar": "ارسم لوجو بسيط لمقهى خيالي، واختر له اسمًا ولونين.",
+      "duration_minutes": 7,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH032",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "اصنع لوحة ألوان",
+      "description_ar": "اختار 3 ألوان من أشياء حواليك واعمل منهم Palette صغيرة.",
+      "duration_minutes": 4,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH033",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "اصنع قارب ورق",
+      "description_ar": "اطوِ ورقة على شكل قارب بسيط. مش لازم يكون مثاليًا.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH034",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "تريلر سينمائي لغرفتك",
+      "description_ar": "اكتب أو قل وصفًا دراميًا من 20 ثانية لغرفتك كأنها مكان في فيلم.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH035",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "اخترع مناسبة جديدة",
+      "description_ar": "اخترع عيدًا أو مناسبة سنوية جديدة، وحدد الناس بتحتفل بيها إزاي.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH036",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "نهاية بديلة",
+      "description_ar": "اخترع نهاية مختلفة لقصة أو فيلم تعرفه، في 3 جمل من غير نقل حوار أصلي.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH037",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "شعار من 10 كلمات",
+      "description_ar": "اكتب slogan من 10 كلمات بالضبط لشيء عادي، زي المذاكرة أو القهوة.",
+      "duration_minutes": 4,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH038",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "كوميك من 3 مربعات",
+      "description_ar": "ارسم قصة مصورة من 3 مربعات: بداية، مفاجأة، نهاية.",
+      "duration_minutes": 8,
+      "difficulty": "medium",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH039",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "صورة من زاوية غريبة",
+      "description_ar": "صوّر غرضًا عاديًا من زاوية قريبة أو غير معتادة تخليه يبدو مختلفًا.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH040",
+      "category": "CREATIVE",
+      "category_ar": "إبداعي",
+      "title_ar": "ستيكر من خيالك",
+      "description_ar": "صمّم على ورقة شكل Sticker صغير واكتب تحته عبارة من كلمتين.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH041",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "اكتشف درجًا منسيًا",
+      "description_ar": "افتح درجًا أو رفًا بتستخدمه قليلًا، واكتشف شيئًا كنت ناسي وجوده.",
+      "duration_minutes": 4,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH042",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "خمس دوائر حواليك",
+      "description_ar": "في دقيقتين، دور على 5 أشياء دائرية في المكان اللي أنت فيه.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH043",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "راقب شكل السحاب",
+      "description_ar": "من مكان آمن، راقب السحاب لدقيقة وتخيل 3 أشكال مختلفة فيه.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": "راقب من شباك أو مكان آمن، من غير صعود أو اقتراب من حافة."
+    },
+    {
+      "id": "CH044",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "مشيّة قصيرة مألوفة",
+      "description_ar": "امشِ 10 دقايق في طريق مألوف وآمن خلال النهار، ولاحظ حاجة ماخدتش بالك منها قبل كده.",
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "safety_note_ar": "اختار مكانًا آمنًا ومألوفًا، والتزم بقواعد المرور والظروف المحلية."
+    },
+    {
+      "id": "CH045",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "تفاصيل في المباني",
+      "description_ar": "لاحظ 3 تفاصيل معمارية مختلفة في مبنى عام أو من مكان آمن في الشارع.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": "ما تدخلش أماكن خاصة وما تصوّرش أشخاصًا من غير إذن."
+    },
+    {
+      "id": "CH046",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "ركن جديد في البيت",
+      "description_ar": "اختار ركنًا في البيت ودوّر على 3 تفاصيل عمرك ما ركزت فيها.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH047",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "خمسة أصوات",
+      "description_ar": "اقعد دقيقة بهدوء وحاول تميّز 5 أصوات مختلفة حواليك.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH048",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "اكتشف 3 خامات",
+      "description_ar": "المس 3 أشياء آمنة مختلفة ولاحظ الفرق بين خاماتها: ناعم، خشن، صلب أو مرن.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH049",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "دقيقة مع السماء",
+      "description_ar": "بص للسماء من مكان آمن لمدة دقيقة ولاحظ لونها أو حركة السحاب أو الضوء.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": "خليك في مكان آمن، وما تبصش مباشرة للشمس."
+    },
+    {
+      "id": "CH050",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "كتاب مش متوقع",
+      "description_ar": "اختار كتابًا موجودًا عندك ما قرأتوش، واقرأ أول صفحة أو فقرة قصيرة.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH051",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "جولة في البيت",
+      "description_ar": "اعمل جولة صغيرة في البيت واختار 5 أشياء لكل واحد منها حكاية أو استخدام مختلف.",
+      "duration_minutes": 7,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH052",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "طريق مألوف بشكل مختلف",
+      "description_ar": "في مشوارك المعتاد، اختار طريقًا بديلًا مألوفًا وآمنًا خلال النهار.",
+      "duration_minutes": 8,
+      "difficulty": "easy",
+      "safety_note_ar": "ما تغيّرش طريقك لمكان غير معروف أو غير آمن."
+    },
+    {
+      "id": "CH053",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "تفصيلة في نبات",
+      "description_ar": "لو عندك نبات، لاحظ شكل ورقة أو عرق أو لون ماكنتش واخد بالك منه.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH054",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "اكتشف حروفًا",
+      "description_ar": "دور في المكان اللي أنت فيه على 5 أشياء تبدأ أسماؤها بنفس الحرف.",
+      "duration_minutes": 4,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH055",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "أقدم غرض",
+      "description_ar": "اختار أقدم غرض صغير عندك، وحاول تعرف أو تتذكر قصته.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH056",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "زيارة مساحة خضراء",
+      "description_ar": "لو فيه حديقة عامة قريبة وآمنة، اقعد فيها 10 دقايق ولاحظ 3 تفاصيل طبيعية.",
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "safety_note_ar": "اختار وقت النهار ومكانًا عامًا آمنًا، ولا تحتاج لشراء أي شيء."
+    },
+    {
+      "id": "CH057",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "راقب تغيّر الضوء",
+      "description_ar": "لاحظ الضوء في المكان لمدة دقيقتين: جاي منين؟ وإيه الظلال اللي بيعملها؟",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH058",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "اكتشف صورة قديمة",
+      "description_ar": "افتح صورك وابحث عن صورة قديمة لطيفة، واسترجع في بالك تفاصيل اليوم ده.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": "خلي الصور خاصة وما تشاركش صور الآخرين من غير إذن."
+    },
+    {
+      "id": "CH059",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "شيء يبدأ بحرف اسمك",
+      "description_ar": "دور على غرض حواليك يبدأ اسمه بنفس أول حرف من اسمك.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH060",
+      "category": "EXPLORE",
+      "category_ar": "استكشاف",
+      "title_ar": "خريطة صغيرة للمكان",
+      "description_ar": "ارسم خريطة بسيطة للمكان اللي أنت قاعد فيه وحدد 5 أشياء أساسية.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH061",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "معلّق رياضي",
+      "description_ar": "علّق بصوت المذيع الرياضي على مهمة عادية بتعملها لمدة 30 ثانية.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH062",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "وضع الروبوت",
+      "description_ar": "اتكلم بصوت روبوت لمدة دقيقة وأنت لوحدك أو مع ناس موافقين على الهزار.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH063",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "جائزة لأغرب غرض",
+      "description_ar": "اختار غرضًا عاديًا وامنحه جائزة خيالية، مع خطاب تكريم من جملة واحدة.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH064",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "وش جاد 30 ثانية",
+      "description_ar": "حاول تحافظ على وش جاد لمدة 30 ثانية وأنت بتفكر في موقف مضحك.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH065",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "جلسة تصوير بالمعلقة",
+      "description_ar": "اعمل Pose مبالغ فيها مع معلقة كأنها جائزة عالمية، من غير ما تحتاج تنشر الصورة.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH066",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "مقدمة أسطورية لنفسك",
+      "description_ar": "قدّم نفسك لمدة 15 ثانية كأنك بطل داخل نهائي بطولة عالمية.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH067",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "سيلفي تعبير غريب",
+      "description_ar": "التقط لنفسك صورة بتعبير وجه مضحك واحتفظ بيها لنفسك لو حابب.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH068",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "ناقد طعام محترف",
+      "description_ar": "اوصف أكلة أو مشروب عادي عندك كأنك ناقد مطاعم في برنامج تلفزيوني.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH069",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "أسماء للأشياء",
+      "description_ar": "اختار 3 أشياء حواليك وادي كل واحد اسمًا ملكيًا أو اسم شخصية كرتونية.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH070",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "رقصة صامتة",
+      "description_ar": "اعمل حركة رقص صامتة لمدة 20 ثانية من غير موسيقى.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": "اختار مساحة فاضية وحركة مريحة وآمنة."
+    },
+    {
+      "id": "CH071",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "نشرة أخبار الجورب",
+      "description_ar": "قدّم نشرة أخبار عاجلة عن اختفاء جورب أو غرض صغير في البيت.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH072",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "اخترع بطلًا خارقًا",
+      "description_ar": "اخترع بطلًا خارقًا قوته غير مفيدة إطلاقًا، وسمّيه.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH073",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "جملة أوبرا",
+      "description_ar": "قل جملة عادية جدًا بأسلوب مغني أوبرا، وأنت في مكان مناسب.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH074",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "خطوات البطريق",
+      "description_ar": "امشِ 10 خطوات صغيرة زي البطريق على أرض مستوية وفاضية.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": "ابعد عن السلالم والأرض الزلقة."
+    },
+    {
+      "id": "CH075",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "بورتريه والعينين مغمضتين",
+      "description_ar": "ارسم وجهك والعينين مغمضتين، وبعدها شوف النتيجة.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH076",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "لسانك في تحدي",
+      "description_ar": "كرر جملة صعبة النطق 3 مرات، أو اختر أي Tongue Twister تعرفه.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH077",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "نشرة الطقس للغرفة",
+      "description_ar": "اعمل توقعات طقس خيالية للغرفة اللي أنت فيها لمدة 20 ثانية.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH078",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "مشهد Slow Motion",
+      "description_ar": "حوّل حركة عادية، زي فتح باب أو شرب ماء، لمشهد Slow Motion تمثيلي.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH079",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "قلّد صوت جهاز",
+      "description_ar": "قلّد صوت جهاز منزلي بشكل لطيف لمدة 10 ثواني.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH080",
+      "category": "FUN",
+      "category_ar": "مرح وهزار",
+      "title_ar": "عنوان فيلم ليومك",
+      "description_ar": "اختر عنوانًا دراميًا أو كوميديًا لليوم اللي عدي عليك.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH081",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "صيد لون واحد",
+      "description_ar": "اختار لونًا وعدّ 10 أشياء باللون ده في المكان خلال 30 ثانية.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH082",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "اختبار الذاكرة",
+      "description_ar": "بص على 7 أشياء حواليك لمدة 20 ثانية، غمّض عينك أو ابعد نظرك، وحاول تفتكرهم.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH083",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "حساب ذهني سريع",
+      "description_ar": "احسب 17 × 3 في دماغك من غير آلة حاسبة.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH084",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "تهجئة بالعكس",
+      "description_ar": "اكتب اسمك الأول بالعكس من غير ما تنقله حرف حرف.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH085",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "عشرة حيوانات",
+      "description_ar": "سمّي 10 حيوانات مختلفة في 30 ثانية.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH086",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "خمسة أشياء بنفس الحرف",
+      "description_ar": "اختار حرفًا وحاول تذكر 5 أشياء تبدأ بيه خلال 20 ثانية.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH087",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "توقّع الوقت",
+      "description_ar": "من غير ما تبص على الساعة، خمّن الوقت لأقرب 5 دقايق وبعدها قارن.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH088",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "وصف من الذاكرة",
+      "description_ar": "بص على غرض لمدة 30 ثانية، غطّيه أو ابعد عنه، واكتب 5 تفاصيل فاكرها.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH089",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "عدّ تنازلي بسبعات",
+      "description_ar": "ابدأ من 100 واطرح 7 كل مرة لحد ما توصل لأقل من 50.",
+      "duration_minutes": 2,
+      "difficulty": "medium",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH090",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "بلاد في 20 ثانية",
+      "description_ar": "اذكر 5 دول مختلفة في 20 ثانية.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH091",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "خمن العدد",
+      "description_ar": "اختار رفًا أو مجموعة كتب، خمّن عددها، وبعدها عدّها وشوف الفرق.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH092",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "اكتشف 3 تغييرات",
+      "description_ar": "بص على المكان حواليك وحاول تلاحظ 3 حاجات متغيرة أو جديدة عن آخر مرة ركزت فيها.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH093",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "كمّل النمط",
+      "description_ar": "كمّل النمط: 2، 4، 8، 16، ... وفسّر القاعدة في كلمة أو جملة.",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH094",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "استخدامات غير متوقعة",
+      "description_ar": "اختار قلمًا أو كوبًا واكتب 5 استخدامات خيالية أو بديلة ليه.",
+      "duration_minutes": 4,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH095",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "لغز المشط",
+      "description_ar": "حل اللغز: إيه الشيء اللي له أسنان لكنه ما بيعضّش؟",
+      "duration_minutes": 1,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH096",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "ارسم طريقك من الذاكرة",
+      "description_ar": "ارسم طريقًا مألوفًا من البيت لمكان قريب، من غير ما تفتح خريطة.",
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH097",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "كلمات على الترتيب",
+      "description_ar": "اختار حرفًا وحاول تقول 5 كلمات تبدأ بيه بترتيب أبجدي تقريبي.",
+      "duration_minutes": 3,
+      "difficulty": "medium",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH098",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "ثلاثة أشياء متشابهة",
+      "description_ar": "اختار 3 أشياء مختلفة واكتشف صفة مشتركة غير واضحة بينهم.",
+      "duration_minutes": 3,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH099",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "ذاكرة التفاصيل",
+      "description_ar": "اقرأ فقرة قصيرة من أي نص عندك، اقفلها، وحاول تلخص 3 تفاصيل منها.",
+      "duration_minutes": 4,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    },
+    {
+      "id": "CH100",
+      "category": "BRAIN",
+      "category_ar": "ذكاء وملاحظة",
+      "title_ar": "تحدي الجمع",
+      "description_ar": "اجمع 8 + 13 + 24 + 17 في دماغك، وبعدها تحقق من الإجابة.",
+      "duration_minutes": 2,
+      "difficulty": "easy",
+      "safety_note_ar": ""
+    }
+  ]
+}

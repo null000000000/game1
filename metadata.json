@@ -1,0 +1,6 @@
+{
+  "name": "لعبة التحديات العشوائية - Random Challenge Game",
+  "description": "تطبيق ويب ممتع وتفاعلي يقدم 100 تحدي بسيط ومميز في الواقع مع أنيميشن شفل مشوق وخفيف بدون أي تسجيل أو تعقيد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
